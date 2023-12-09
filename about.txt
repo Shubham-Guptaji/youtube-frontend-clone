@@ -1,0 +1,4 @@
+Youtube clone hosted link is - 
+    https://shubham-guptaji.github.io/youtube-frontend-clone/
+Screenshot of youtube clone is - 
+    https://github.com/Shubham-Guptaji/youtube-frontend-clone/tree/main/outputs
